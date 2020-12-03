@@ -1,15 +1,13 @@
 # Tableau Homework - Citi Bike Analytics
-
-### Tableau Public link to view my viz
-
-https://public.tableau.com/profile/usha.chari#!/vizhome/CitiBikeTrip_16068917386520/BikesUsageWhoToMarket-StoryOct2020?publish=yes
-
-## Data Sources
-
 ![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
 
- [Citi Bike Data](https://www.citibikenyc.com/system-data) .
 
+### Tableau Public link to view my viz
+https://public.tableau.com/profile/usha.chari#!/vizhome/CitiBikeTrip_16068917386520/BikesUsageWhoToMarket-StoryOct2020?publish=yes
+
+
+## Data Sources
+[Citi Bike Data link](https://www.citibikenyc.com/system-data) .
 
 
 ## My Project
@@ -50,7 +48,6 @@ I tried to cover User stories within the same file :
 2. Part 2 of the story shows some charts to help Citi officials on how to make more customers to be subscribers and whom to target (age/gender)
 
 
-* * 
 
 ## Submission 
 I have attached on Github :
